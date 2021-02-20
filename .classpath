@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/driver/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/groovy-all-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/iText-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/jasperreports-6.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/jasperreports-fonts-6.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/jasperreports-javaflow-6.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/carli/OneDrive/Escritorio/Tecsup/Segundo Ciclo/Programación Orientada a Objetos/JasperReport/spring.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
